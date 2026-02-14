@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "終電アクセント",
+  "base_artist": "susumu.",
+  "createdAt": "2026-02-14T05:40:05.535839Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終電アクセント",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_終電アクセント_susumu..txt"
+    }
+  ]
+}
